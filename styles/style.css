@@ -9,6 +9,7 @@
 
 .marker-bold{
     font-weight: bold;
+    margin: 0;
 }
 .main-box{
     display: flex;
